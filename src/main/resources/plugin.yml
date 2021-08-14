@@ -1,0 +1,5 @@
+name: Geometry Dump
+version: ${project.version}
+main: gg.bridgesyndicate.geometrydump.GeometryDump
+api-version: 1.8
+description: Dumps geometry from the world on load
